@@ -1,0 +1,20 @@
+p {
+  font-size: 42px;
+  color: #EABE3F;
+  font-weight: 900;
+  font-family: fantasy;
+  margin-top: 40vh;
+}
+
+img {
+  margin-top: 30vh;
+}
+
+button {
+  margin-top: 10vh;
+  background-color: pink;
+  border: none;
+  border-radius: 4px;
+  height: 50px;
+  font-size: 20px;
+}

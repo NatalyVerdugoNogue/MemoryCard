@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { GetcardService } from '../getcard.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-table',
@@ -16,12 +17,16 @@ export class TableComponent implements OnInit {
   compareCard: any = [];
   par: number = 0;
 
-  constructor(private cardsService: GetcardService) {
+  constructor(private cardsService: GetcardService, private router: Router) {
 
   }
 
   ngOnInit() {
     this.getInCads();
+  }
+
+  goToend() {
+    setTimeout(() => { this.router.navigate(['/end']) }, 1000);
   }
 
   equalCards() {
@@ -35,7 +40,7 @@ export class TableComponent implements OnInit {
     this.compareCard = [];
     this.par++;
     if (this.par === this.numberCards) {
-      console.log('fin');
+      this.goToend();
     }
   }
 
