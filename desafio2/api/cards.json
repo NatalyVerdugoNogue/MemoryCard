@@ -1,0 +1,366 @@
+[
+  {
+    "number": "A",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "2",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "3",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "4",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "5",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "6",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "7",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "8",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "9",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "10",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "J",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "Q",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "K",
+    "suits": "../assets/img/clubs.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "A",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "2",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "3",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "4",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "5",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "6",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "7",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "8",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "9",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "10",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "J",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "Q",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "K",
+    "suits": "../assets/img/diamonds.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "A",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "2",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "3",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "4",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "5",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "6",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "7",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "8",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "9",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "10",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "J",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "Q",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "K",
+    "suits": "../assets/img/hearts.png",
+    "color": "#a22621",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "A",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "2",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "3",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "4",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "5",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "6",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "7",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "8",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "9",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "10",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "J",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "Q",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  },
+  {
+    "number": "K",
+    "suits": "../assets/img/spades.png",
+    "color": "#000000",
+    "hide": true,
+    "totalhide": false
+  }
+]
